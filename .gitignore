@@ -1,0 +1,23 @@
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Dependencies and caches
+node_modules/
+.npm/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Icon?
+.VolumeIcon.icns
+
+# Local AI/agent files
+AI
+AI.*
+AI/
+AGENTS.md
+docs/agent_handoff.md
